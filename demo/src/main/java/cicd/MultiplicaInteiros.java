@@ -3,7 +3,7 @@ package cicd;
 public class MultiplicaInteiros {
 
     public int multiplicar(int a, int b) {
-        return a - b;
+        return a * b;
     }
 
     public static void main(String[] args) {
